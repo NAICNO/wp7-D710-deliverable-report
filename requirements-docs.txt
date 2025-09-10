@@ -1,0 +1,6 @@
+sphinx<9
+sphinx_rtd_theme
+sphinx-lesson
+sphinxcontrib-mermaid
+sphinx-tabs
+myst-parser

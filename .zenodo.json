@@ -1,0 +1,27 @@
+{
+  "title": "NAIC WP7 D7.10 — Summary of Completed Demonstrators",
+  "description": "Deliverable report summarizing all seven completed WP7 demonstrators with Sphinx tutorial covering infrastructure, methodology, and cross-cutting patterns.",
+  "creators": [
+    {
+      "name": "Arief, Hasan Asyari",
+      "affiliation": "NORCE Norwegian Research Centre"
+    },
+    {
+      "name": "Johannsen, Klaus",
+      "affiliation": "NORCE Norwegian Research Centre"
+    }
+  ],
+  "keywords": [
+    "NAIC",
+    "WP7",
+    "demonstrators",
+    "deliverable",
+    "report"
+  ],
+  "license": {
+    "id": "GPL-3.0-only"
+  },
+  "upload_type": "publication",
+  "publication_type": "report",
+  "access_right": "open"
+}
